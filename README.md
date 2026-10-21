@@ -1,1 +1,1 @@
-# chart-class-demo
+# chart.js_demo
